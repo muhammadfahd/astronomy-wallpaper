@@ -1,4 +1,4 @@
-const API_KEY = "XSh9rCFF9zPCRVWhctod7v4MNG6OTDzfAiRwXOWO";   
+const API_KEY = "API KEY HERE ";   
 const API_URL = `https://api.nasa.gov/planetary/apod?api_key=${API_KEY}`; 
 
 // Function to check if we need to fetch new image
